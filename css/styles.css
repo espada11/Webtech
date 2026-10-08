@@ -89,7 +89,7 @@ textarea {
 
     margin-bottom: 25px;
 
-    color: white;
+    color: rgb(255, 255, 255);
 
     font-size: 23px;
 
@@ -98,9 +98,9 @@ textarea {
     background:
         linear-gradient(
             135deg,
-            #e60023,
-            #ff5a5f,
-            #ff8a65
+            #00d7e6,
+            #5aff83,
+            #65fff7
         );
 
     box-shadow:
@@ -213,7 +213,7 @@ textarea {
 }
 
 .search-box:focus-within {
-    background: white;
+    background: rgba(90, 220, 243, 0.671);
 
     border-color: #777;
 }
